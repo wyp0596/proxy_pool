@@ -108,3 +108,4 @@ def validUsefulProxy(proxy):
     except Exception as e:
         # logger.error(str(e))
         return False
+    return False
